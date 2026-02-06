@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # We4Lead Backend
 
 Spring Boot REST API for **secure school incident reporting** and administrative management.
@@ -46,3 +47,7 @@ mvn spring-boot:run -Dspring-boot.run.profiles=dev
 
 # ── OR ── run the generated JAR
 java -jar target/backend-0.0.1-SNAPSHOT.jar --spring.profiles.active=dev
+=======
+# we4lead
+
+>>>>>>> 6a8f3d5 (Initial commit)
